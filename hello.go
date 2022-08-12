@@ -13,7 +13,7 @@ import (
 func main() {
 	hello := HelloGo()
 	fmt.Println(hello)
-
+	// Added comments
 	a, b := 3, 5
 	fmt.Printf("Hello, new gopher!\n")
 
